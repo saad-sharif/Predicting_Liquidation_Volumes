@@ -1,0 +1,23 @@
+# Data - stored outside the repo
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.feather
+
+# Model artefacts
+*.joblib
+*.pt
+*.pth
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+
+# OS
+Thumbs.db
+.DS_Store
