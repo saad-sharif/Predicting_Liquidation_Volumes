@@ -25,7 +25,7 @@ This project models forced liquidation volume on cryptocurrency perpetual future
 **2. Data Consolidation:** Reads the .parquet files and merges them into one large dataset based on coin and timestamp\
 **3. Data Imputation:** Handles missing values in the data and engineers additional features\
 **4. Data Exploration:** Visualises the distribution of Liquidation volumes\
-**5. Hyperparameter Tuning:** Tune the Hyperparameters based on the full feature set\ 
+**5. Hyperparameter Tuning:** Tune the Hyperparameters based on the full feature set\
 **6. Data Modelling:** Machine Learning model training and testing on full feature set and ablation scripts\
 **7. Evaluation - Full Model and Ablation Study:** Consolidate evaluation metrics from Modelling scripts for comparison\
 **8. Evaluation - Per Coin Analysis:** Breakdown of results by Cryptocurrency to assess performancy by coin
