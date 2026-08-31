@@ -44,3 +44,17 @@ In order to reproduce these results, Amberdata and Santiment API credentials wil
 7. Execute the Evaluation_Metrics_Results notebook in 7. Evaluation - Full Model and Ablation Study (using outputs of modelling notebooks in 5. Data Modelling folder)
 8. Execute Evaluation_Metrics_Results_Per_Coin notebook in 8. Evaluation - Per Coin Analysis folder (using outputs of Machine Learning Models_Horizon12-Executed-Per_Coin_Results notebook from 5. Modelling folder)
 
+## **Requirements**
+ipython==9.4.0\
+matplotlib==3.10.5\
+numpy==2.2.6\
+openpyxl==3.1.5\
+pandas==2.3.1\
+pyarrow==21.0.0\
+requests==2.32.4\
+scikit-learn==1.6.1\
+seaborn==0.13.2\
+tensorflow==2.20.0\
+xgboost==3.3.0
+
+
